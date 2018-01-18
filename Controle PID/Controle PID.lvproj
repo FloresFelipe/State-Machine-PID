@@ -41,6 +41,9 @@
 			<Item Name="PID Data.ctl" Type="VI" URL="../controls/PID Data.ctl"/>
 			<Item Name="PID State.ctl" Type="VI" URL="../controls/PID State.ctl"/>
 		</Item>
+		<Item Name="SubVIs" Type="Folder">
+			<Item Name="Enable_Disable Controls.vi" Type="VI" URL="../SubVIs/Enable_Disable Controls.vi"/>
+		</Item>
 		<Item Name="PID Main.vi" Type="VI" URL="../PID Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
