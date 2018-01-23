@@ -8,12 +8,12 @@ Cover1Position=2395@1175
 GraphicPosition=2410@690
 Type=Word
 Path=Projeto Controlador PID - Requirements.docx
-AbsolutePath=C:\Users\fflores\Documents\State Machine PID\Controle PID\Requirements\Projeto Controlador PID - Requirements.docx
+AbsolutePath=C:\Users\liferrei\Documents\State-Machine-PID\Controle PID\Requirements\Projeto Controlador PID - Requirements.docx
 
 [Controlador PID]
 GraphicPosition=2410@1550
 Variable1Name=outputDir
-Variable1Value=C:\\Users\\fflores\\AppData\\Local\\Temp\\nirg8
+Variable1Value=C:\\Users\\liferrei\\AppData\\Local\\Temp\\nirg77
 Variable2Name=recurseViValues
 Variable2Value=0
 Variable3Name=absoluteFiles
@@ -28,5 +28,7 @@ Variable7Name=analyzeDiagrams
 Variable7Value=true
 Type=LabVIEW
 Path=..\Controle PID.lvproj
+GVPosition=21340,680,24300,9820
+SortAttributeName=Error
 DisplayedVariable=analyzeDiagrams
 
