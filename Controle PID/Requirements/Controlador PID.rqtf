@@ -1,0 +1,32 @@
+[Files]
+Names=Requirements,Controlador PID
+RepositoryTool=Boost
+
+[Requirements]
+Cover1=Controlador PID
+Cover1Position=2395@1175
+GraphicPosition=2410@690
+Type=Word
+Path=Projeto Controlador PID - Requirements.docx
+AbsolutePath=C:\Users\fflores\Documents\State Machine PID\Controle PID\Requirements\Projeto Controlador PID - Requirements.docx
+
+[Controlador PID]
+GraphicPosition=2410@1550
+Variable1Name=outputDir
+Variable1Value=C:\\Users\\fflores\\AppData\\Local\\Temp\\nirg8
+Variable2Name=recurseViValues
+Variable2Value=0
+Variable3Name=absoluteFiles
+Variable3Value=C:\\Users\\fflores\\Documents\\State Machine PID\\Controle PID\\Controle PID.lvproj
+Variable4Name=recurseDirValues
+Variable4Value=0
+Variable5Name=files
+Variable5Value=..\\Controle PID.lvproj
+Variable6Name=defaultDirectory
+Variable6Value=..\\..\\Controle PID
+Variable7Name=analyzeDiagrams
+Variable7Value=true
+Type=LabVIEW
+Path=..\Controle PID.lvproj
+DisplayedVariable=analyzeDiagrams
+
