@@ -17,21 +17,21 @@ The image below represents the general diagram for a PID Control.
 
 The main code implements a state machine. Find below the state diagram for this project (it is also on the fron panel)
 
-![State Diagram](/documention/StateMachineDiagram.PNG)
+![State Diagram](/Controle%20PID/documention/StateMachineDiagram.PNG)
 
 Find below the implementation of each of those states in the LabVIEW Code.
 
-![Initialize](/documentation/PID_Maind1.png)
+![Initialize](/Controle%20PID/documentation/PID_Maind1.png)
 
-![Wait Event](/documentation/PID_Maind2.png)
+![Wait Event](/Controle%20PID/documentation/PID_Maind2.png)
 
-![Update PID Settings](/documentation/PID_Maind5.png)
+![Update PID Settings](/Controle%20PID/documentation/PID_Maind5.png)
 
-![Start DAQ](/documentation/PID_Maind6.png)
+![Start DAQ](/Controle%20PID/documentation/PID_Maind6.png)
 
-![Stop DAQ](/documentation/PID_Maind10.png)
+![Stop DAQ](/Controle%20PID/documentation/PID_Maind10.png)
 
-![Exit](/documentation/PID_Maind1.png)
+![Exit](/Controle%20PID/documentation/PID_Maind1.png)
 
 
 ## How it works
@@ -40,6 +40,6 @@ It is actually pretty straightforward. Just run the VI, go to the **ConfiguraÃ§Ã
 
 See the animation below to check how it works.
 
-![VI Operation](/documentation/pidViWorking.gif)
+![VI Operation](/Controle%20PID/documentation/pidViWorking.gif)
 
 >Yes, the interface is in portuguese. Feel free to translate to your languange :smile:
