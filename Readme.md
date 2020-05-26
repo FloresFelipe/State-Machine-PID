@@ -17,7 +17,7 @@ The image below represents the general diagram for a PID Control.
 
 The main code implements a state machine. Find below the state diagram for this project (it is also on the fron panel)
 
-![State Diagram](/Controle%20PID/documention/StateMachineDiagram.PNG)
+![State Diagram](https://github.com/FloresFelipe/State-Machine-PID/blob/master/Controle%20PID/documentation/StateMachineDiagram.PNG)
 
 Find below the implementation of each of those states in the LabVIEW Code.
 
