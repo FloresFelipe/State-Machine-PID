@@ -31,7 +31,7 @@ Find below the implementation of each of those states in the LabVIEW Code.
 
 ![Stop DAQ](/Controle%20PID/documentation/PID_Maind10.png)
 
-![Exit](/Controle%20PID/documentation/PID_Maind1.png)
+![Exit](/Controle%20PID/documentation/PID_Maind11.png)
 
 
 ## How it works
