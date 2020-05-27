@@ -2,7 +2,7 @@
 
 This project implements a PID control application based on the **Simple State Machine** LabVIEW Sample Project. You can use it as an example of how to modify the Sample Proejct.
 
-There is two ways to run a PID control here: 
+There is two ways to run a PID control here:
 
 * **Simulated** - Just run the control with a simulated plant.
 * **Hardware** - you can use a NI-DAQ Hardware with NI-DAQmx to perform the control on a real-world plant.
@@ -17,7 +17,7 @@ The image below represents the general diagram for a PID Control.
 
 The main code implements a state machine. Find below the state diagram for this project (it is also on the fron panel)
 
-![State Diagram](https://github.com/FloresFelipe/State-Machine-PID/blob/master/Controle%20PID/documentation/StateMachineDiagram.PNG)
+![State Diagram](/Controle%20PID/documentation/StateMachineDiagram.PNG)
 
 Find below the implementation of each of those states in the LabVIEW Code.
 
